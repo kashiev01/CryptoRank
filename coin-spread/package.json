@@ -1,0 +1,19 @@
+{
+	"name": "leetcode",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "nodemon --exec ts-node script.ts",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"nodemon": "^2.0.22",
+		"typescript": "^5.0.4"
+	},
+	"devDependencies": {
+		"ts-node": "^10.9.1"
+	}
+}
